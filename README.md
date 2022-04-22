@@ -1,3 +1,5 @@
+![](https://komarev.com/ghpvc/?username=eyupcimen&color=brightgreen)
+
 ### Hi there 👋
 
 <!--
