@@ -1,6 +1,6 @@
 ![](https://komarev.com/ghpvc/?username=eyupcimen&color=brightgreen)
 
-### Hi there 👋
+### Hi there 👋 I'm iOS Developer. I love coding
 
 <!--
 **eyupcimen/eyupcimen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
